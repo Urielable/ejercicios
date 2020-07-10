@@ -40,6 +40,7 @@ Para saber más sobre cómo ejecutar tu solución con y sin la herramienta **car
 ## Índice de ejercicios
 
 + [Ejercicio 0: Muestra un mensaje](/ejercicios/0)
++ [Ejercicio 1: Pide y muestra un mensaje](/ejercicios/1)
 
 
 ## Referencias
