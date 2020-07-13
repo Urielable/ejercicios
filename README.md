@@ -26,21 +26,22 @@ Una [kata](https://en.wikipedia.org/wiki/Kata_\(programming\)) de código es un 
 
 Ejemplos: 
 
-- /ejercicios/0/bitdmt/solution.rs
-- /ejercicios/0/danioso/solution.py
-- /ejercicios/0/urielable/solution.java
+* /ejercicios/0/bitdmt/solution.rs
+* /ejercicios/0/danioso/solution.py
+* /ejercicios/0/urielable/solution.java
 
 En el caso de Rust, puede que quieras incluir un directorio **src**, **test** y el archivo **Cargo.toml**.
 
 Para saber más sobre cómo ejecutar tu solución con y sin la herramienta **cargo**, consulta aquí:
 
-- [Simple Hello World](https://doc.rust-lang.org/rust-by-example/hello.html)
-- [Hello, Cargo!](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
+* [Simple Hello World](https://doc.rust-lang.org/rust-by-example/hello.html)
+* [Hello, Cargo!](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html)
 
 ## Índice de ejercicios
 
-+ [Ejercicio 0: Muestra un mensaje](/ejercicios/0)
-+ [Ejercicio 1: Pide y muestra un mensaje](/ejercicios/1)
+* [Ejercicio 0: Muestra un mensaje](/ejercicios/0)
+* [Ejercicio 1: Pide y muestra un mensaje](/ejercicios/1)
+* [Ejercicio 2: Operadores aritméticos](/ejercicios/2)
 
 
 ## Referencias
