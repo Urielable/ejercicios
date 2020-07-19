@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  rust:
+    tty: true
+    image: rust:latest
+    volumes:
+      - .:/app
+    environment:
+      - USER=Santiago Osorio <santiagoosorio1@gmail.com>
+    container_name: rust

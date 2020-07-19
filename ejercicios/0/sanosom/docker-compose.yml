@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  rust:
+    tty: true
+    image: rust:latest
+    volumes:
+      - .:/app
+    environment:
+      - USER=$USER
+    container_name: rust
